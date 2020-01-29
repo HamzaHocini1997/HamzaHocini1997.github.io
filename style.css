@@ -1,0 +1,18 @@
+body{
+	background-color: #93E3CC;
+	font-family: Helvetica ;
+	font-size: 20px ;
+    color: #ff66ff
+}
+
+a{
+	color: ##ff0000
+}
+
+a: hover {
+	background-color: #6600ff;
+}
+
+img{}
+
+#cat {position: relative; top: 100; left: 100px}
